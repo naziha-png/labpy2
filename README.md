@@ -203,7 +203,7 @@ Kombinasi `while` dan `if` memungkinkan pengendalian hasil acak sesuai kondisi y
 
 
 
-##  Kode Loop Flowchart (Pembacaan Sensor)
+###  Kode Loop Flowchart (Pembacaan Sensor)
 
 **Tujuan:**
 Mengimplementasikan konsep *loop* dan *kondisi* dalam simulasi sistem pembacaan sensor suhu dan kelembapan.
